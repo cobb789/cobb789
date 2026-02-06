@@ -41,6 +41,7 @@ AI/LLM      ███████████████████░  The dr
 - 🎯 Building AI agents that code
 - 🏗️ Architecting systems that scale
 - 🧩 Solving problems others call impossible
+- 📝 [Blog: https://cobb789.github.io](https://cobb789.github.io)
 
 *"An idea is like a virus — resilient, highly contagious. Once it's taken hold, it's almost impossible to eradicate."*
 
